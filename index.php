@@ -18,9 +18,6 @@
     		<h3 class="h3 text-white">it's me Dandi Rifaldi!, Human also.</h3>
   		</div>
   		<div class="sosmed">
-  			<a href="www.facebook.com/rifaldxd/" class="face"><i class="fa fa-facebook fa-4x"></i></a>
-  			<a href="www.twitter.com/user/rifaldxd"  class="twi"><i class="fa fa-twitter fa-4x"></i></a>
-  			<a href="www.instagram.com/rifaldxd" class="ins"><i class="fa fa-instagram fa-4x"></i></a>
   		</div>
 </div>
 </body>
