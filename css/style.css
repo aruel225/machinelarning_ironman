@@ -1,0 +1,109 @@
+*{
+	/*border: 1px solid red;*/
+}
+.jumbotron1{
+	background-image: url(../img/1.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 695px;
+}
+.jumbotron1 .b h1{
+	color: #fff;
+	margin-left: 100px;
+	margin-top: 250px;
+	text-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+
+}
+.jumbotron1 .b h3{
+	color: #fff;
+	padding-top: 10px;
+	margin-left: 200px;
+	text-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+
+}
+.a{
+	margin-top: 30px;
+	margin-left: 30px;
+	display: inline-block;
+	float: left;
+}
+.jumbotron1 .b{
+	display: inline-block;
+	/*float: left;*/
+}
+.jumbotron1 .sosmed{
+	display: inline-block;
+	float: right;
+	width: 100px;
+}
+
+.jumbotron .sosmed a{
+	border: 10px solid white;
+	border-radius: 20px;
+	width: 500px;
+	color: #fff;
+	display: block;
+	margin-top: 30px;
+}
+.face{
+	border: 3px solid white;
+	opacity: 0.3;
+	border-radius: 10px;
+	width: 100px;
+	color: white;
+	text-align: center;
+	display: block;
+	margin-top: 30px;
+}
+.twi{
+	border: 3px solid white;
+	border-radius: 10px;
+	width: 100px;
+	color: white;
+	text-align: center;
+	opacity: 0.3;
+	display: block;
+	margin-top: 30px;
+}
+.ins{
+	border: 3px solid white;
+	border-radius: 10px;
+	width: 100px;
+	opacity: 0.3;
+	color: white;
+	text-align: center;
+	display: block;
+	margin-top: 30px;
+}
+.ins:hover {
+	border: 3px solid white;
+	border-radius: 50px;
+	width: 90px;
+	/*opacity: 0.3;*/
+	color: white;
+	text-align: center;
+	display: block;
+	margin-top: 30px;
+}
+
+.twi:hover {
+	border: 3px solid white;
+	border-radius: 50px;
+	width: 90px;
+	/*opacity: 0.3;*/
+	color: white;
+	text-align: center;
+	display: block;
+	margin-top: 30px;
+}
+
+.face:hover {
+	border: 3px solid white;
+	border-radius: 50px;
+	width: 90px;
+	/*opacity: 0.3;*/
+	color: white;
+	text-align: center;
+	display: block;
+	margin-top: 30px;
+}
